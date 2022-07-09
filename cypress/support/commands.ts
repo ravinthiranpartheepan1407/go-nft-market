@@ -13,3 +13,5 @@ declare global {
 export const headingForm = (selector: string, value: string) => {
     cy.get(`#${selector}`).type(value);
 };
+
+export{}
