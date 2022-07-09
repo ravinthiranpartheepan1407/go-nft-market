@@ -6,7 +6,6 @@ body {
     padding: 0;
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-    background-image: radial-gradient( circle farthest-corner at 10% 20%, rgba(249, 248, 113, 1) 0%, rgba(240, 221, 254, 1) 90%);
 }
 
 a {

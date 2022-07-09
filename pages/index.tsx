@@ -6,7 +6,7 @@ import styles from '../styles/Home.module.css'
 const Home: NextPage = () => {
   return (
     <div>
-      <h1 className="text-center text-4xl">Arkhamm Go NFT Marketplace</h1>
+      <h1 className="text-center text-4xl">Arkhamm Go NFT Marketplaces</h1>
     </div>
   )
 }
